@@ -1,2 +1,2 @@
 # CS3-Git-Collaboration.
-a git collaboration with
+for you and Me
